@@ -13,7 +13,7 @@ variable "prefix" {
   description = "(Optional) Prefix to use for all resources in this module. Default: sri-dev"
 }
 
-variable "environment" {
+variable "enviroment" {
   type        = string
   description = "Environment for the resources"
 }
