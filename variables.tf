@@ -19,7 +19,7 @@ variable "enviroment" {
 }
 
 variable "billing_code" {
-  type        = string
+  type = string
 }
 
 variable "cidr_block" {
